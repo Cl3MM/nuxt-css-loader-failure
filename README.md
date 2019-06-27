@@ -16,7 +16,7 @@ yarn run build // build with no error
 ## Problematic command
 
 ```
-git checkout master nuxt-edge-2.9.0-26026572.fc5502cd
+git checkout nuxt-edge-2.9.0-26026572.fc5502cd
 yarn // install deps
 yarn run build // build spits out errors
 ```
