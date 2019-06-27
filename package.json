@@ -16,7 +16,7 @@
   "dependencies": {
     "@nuxtjs/pwa": "^2.6.0",
     "nuxt": "^2.8.1",
-    "nuxt-edge": "^2.9.0-26026572.fc5502cd",
+    "nuxt-edge": "2.9.0-26025132.de526f6d",
     "@nuxtjs/style-resources": "^0.1.2",
     "buefy": "^0.7.8",
     "cross-env": "^5.2.0",
