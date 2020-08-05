@@ -19,7 +19,7 @@
     "@nuxtjs/style-resources": "^0.1.2",
     "buefy": "^0.7.8",
     "cross-env": "^5.2.0",
-    "fastify": "^1.13.3"
+    "fastify": "^3.1.1"
   },
   "devDependencies": {
     "@nuxtjs/eslint-config": "^0.0.1",
